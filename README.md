@@ -3,7 +3,7 @@
 
 ## 1. Project Overview
 
-This project focuses on analyzing and optimizing the operations of a non-governmental organization (NGO) using SQL. The dataset includes information about volunteers, programs, donations, and beneficiaries. The goal is to extract insights to support data-driven decision-making.
+This project aims to design and implement a comprehensive database system and optimizing the operations of a non-governmental organization (NGO) using SQL. The dataset includes information about staff, volunteers, donars, donations, beneficiaries, projects, activities, expenses and feedback. The goal is to extract insights to support data-driven decision-making.
 
 ---
 
@@ -17,14 +17,33 @@ This project focuses on analyzing and optimizing the operations of a non-governm
 ---
 
 ## 3. Dataset Description
+### 3.1 Strong / Primary Tables
 
-The project uses a relational database consisting of the following tables:
+The project uses a relational database consisting of the following basic tables:
 
-- `Volunteers`
-- `Programs`
-- `Donations`
+- `Staff` - Represents the permanent employees of the NGO who play various roles in managing operations and implementing projects
+- `Staff Role` - Defines various roles that staff members can have within the NGO, such as NGO Head, Fundraising Manager, or Operations Manager.
+- `Volunteers` - Represents individuals who contribute their time and skills to the NGO's projects and activities on a voluntary basis.
+- `Projects`
+- `ProjectActivities`
+- `Donars`
 - `Beneficiaries`
-- `Events`
+- `Expenses`
+
+---
+
+### 3.2 Week / Secondary Tables
+
+Below tables  project uses a relational database consisting of the following basic tables:
+
+- `Staff`
+- `Staff Role`
+- `Volunteers`
+- `Projects`
+- `ProjectActivities`
+- `Donars`
+- `Beneficiaries`
+- `Expenses`
 
 These tables are connected via foreign keys to maintain data integrity.
 
