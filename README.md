@@ -82,7 +82,7 @@ These tables are connected via foreign keys to maintain data integrity.
 
 
 ### 6.1 1. Database and Tables Creation
- > ![DDL Queries](Code/1. Database and Tables Creation)
+ > ![DDL Queries](Code/1. Database and Tables Creation.sql)
 
 
 ### 6.1 Top Donors by Total Contribution
