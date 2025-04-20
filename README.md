@@ -116,39 +116,6 @@ These tables are connected via foreign keys to maintain data integrity.
 > ![9. NGO Operations_Queries_StoredProcedures](Code/9.%20NGO%20Operations_Queries_StoredProcedures.sql)
 
 
-
-### 6.1 Top Donors by Total Contribution
-```sql
-SELECT DonorName, SUM(Amount) AS TotalDonated
-FROM Donations
-GROUP BY DonorName
-ORDER BY TotalDonated DESC
-LIMIT 10;
-```
-
-### 6.2 Volunteer Participation by Program
-```sql
-SELECT ProgramName, COUNT(VolunteerID) AS TotalVolunteers
-FROM Volunteers
-JOIN Programs ON Volunteers.ProgramID = Programs.ProgramID
-GROUP BY ProgramName;
-```
-
-### 6.3 Monthly Donation Trends
-```sql
-SELECT DATE_FORMAT(DonationDate, '%Y-%m') AS Month, SUM(Amount) AS Total
-FROM Donations
-GROUP BY Month
-ORDER BY Month;
-```
-
-### 6.4 Beneficiaries by Region
-```sql
-SELECT Region, COUNT(BeneficiaryID) AS TotalBeneficiaries
-FROM Beneficiaries
-GROUP BY Region;
-```
-
 ---
 
 ## 7. Findings & Recommendations
@@ -160,7 +127,7 @@ GROUP BY Region;
 
 ---
 
-## 8. Challenges Faced
+## 8 Challenges Faced
 
 - Inconsistent data entries and missing values
 - Complex joins due to many-to-many relationships
@@ -170,21 +137,26 @@ GROUP BY Region;
 
 ## 9. Conclusion
 
-SQL can provide powerful insights into NGO operations by uncovering patterns in donations, volunteers, and program outcomes. These insights help NGOs maximize impact and improve transparency with stakeholders.
+SQL can provide powerful insights into NGO operations by uncovering patterns in donations, volunteers, and project outcomes. These insights help NGOs maximize impact and improve transparency with stakeholders.
 
 ---
 
 ## 10. Screenshots
 
-> ![Sample Query Result](images/query-result-1.png)  
-> ![Dashboard View](images/dashboard-sample.png)
-
-*(Replace these with your actual image paths in the repo)*
-
+> ![Donations Categories](images/DQL1-CaseStatement-CategoriseDonations.png)
+> ![Volunteer Engagement-1](images/DQL2-LEFTJOIN-VolunteerEngagement.png)
+> ![Assign Row Number to Projects by StartDate](images/WindowFunction1-AssignRowNum2ProjectsUsingStartDate.png)
+> ![Rank Beneficiries by DOB](images/WindowFunction2-AssignRanktoBeneficiariesBasedOnDOB.png)
+> ![Donation Details](images/CTE1-DonationSummarybyProject.png)
+> ![Staff Assignments Completed](images/CTE2-StaffAssignmentsCompletedByaGivenDate.png)
+> ![Volunteer Engagement-2](images/View-1-VolunteersEngagement.png)
+> ![Beneficiries Feedback by Project](images/View2-BeneficiriesFeedbackByProject.png)
+> ![Stored Procedure to Add a New Donation Record](images/StoredProcedure1-AddNew-DonationRecord.png)  
+> ![Stored Procedure to To Update Project Budget](images/StoredProcedure2-Update-Budget.png)
 ---
 
 ## 11. Author
 
-**Your Name**  
-Email: your.email@example.com  
-GitHub: [yourusername](https://github.com/yourusername)
+**Details**  
+Email: sriramapemmasani@gmail.com 
+GitHub: [Sridevi-Pemmasani](https://github.com/Sridevi-Pemmasani)
