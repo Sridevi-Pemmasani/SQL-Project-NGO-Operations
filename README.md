@@ -34,20 +34,34 @@ The project uses a relational database consisting of the following basic tables:
 
 ### 3.2 Week / Secondary Tables
 
-Below tables  project uses a relational database consisting of the following basic tables:
+Below are the additional tables required to maintain the relationships and among the given tables:
 
-- `VolunteerHours` - Tracks the hours contributed by volunteers to specific project activities.
-- `Beneficiaries_Feedback` - Captures feedback provided by beneficiaries on the projects they were part of.
-- `Donations` - Tracks financial contributions made by donors to specific projects.
-- `Projects`
-- `ProjectActivities`
-- `Donars`
-- `Beneficiaries`
-- `Expenses`
+9. `VolunteerHours` - Tracks the hours contributed by volunteers to specific project activities.
+10. `Beneficiaries_Feedback` - Captures feedback provided by beneficiaries on the projects they were part of.
+11. `Donations` - Tracks financial contributions made by donors to specific projects.
 
 These tables are connected via foreign keys to maintain data integrity.
 
 ---
+
+### 3.3 Strong Relationsships
+
+1.	Staff manages Projects (Staff to Projects, 1:N)
+2.	Projects include ProjectActivities (Projects to ProjectActivities, 1:N)
+3.	Donors contribute to Projects through Donations (Donors to Donations, N:M via Projects)
+4.	Beneficiaries provide Feedback on Projects (Beneficiaries to Feedback, N:M via Projects)
+5.	Volunteers contribute hours to ProjectActivities (Volunteers to VolunteerHours, N:M via ProjectActivities)
+
+
+### 3.4 Weak Relationships
+
+1.	VolunteerHours is associated with Volunteer and Activities (N:M:M relationship with Volunteers and Activities)
+2.	Donations depend on Donors and Projects
+3.	Beneficiaries_Feedback depends on Beneficiaries and Projects
+
+
+
+
 
 ## 4. Tools & Technologies
 
@@ -58,7 +72,7 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ## 5. Data Model Diagram
 
-> ![ER Diagram](Screenshots/NGOOperations.drawio.png)
+> ![ER Diagram](Images/NGOOperations.drawio.png)
 
 
 ---
