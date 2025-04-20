@@ -65,9 +65,10 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ## 4. Tools & Technologies
 
-- **Microsoft Excel** for data capture and cleaning
-- **MySQL** for data storing, querying and analysis
-- **Draw.io** for creating Entity Relationship diagram
+- **MySQL Workbench** - Used as the primary database design and management tool (DBMS). It facilitated the creation of the Entity-Relationship (ER) diagram, schema design, and SQL queries for managing data operations. 
+- **SQL (Structured Query Language)** - SQL was used for defining, manipulating, and querying data within the MySQL database. Queries were written for tasks such as creating tables, managing relationships, and retrieving specific information.
+- **MySQL Server** - To host the database and allow access for authorized users. The server ensures data integrity and provides support for multiple concurrent users
+- **Draw.io** - This tool was used for ER Modeling
 ---
 
 ## 5. Data Model Diagram
