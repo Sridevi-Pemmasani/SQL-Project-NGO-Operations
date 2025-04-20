@@ -81,35 +81,39 @@ These tables are connected via foreign keys to maintain data integrity.
 ## 6. Key SQL Queries
 
 
-### 6.1 1. Database and Tables Creation (DDL)
+#### 6.1 1. Database and Tables Creation (DDL)
 > ![1. DDL Queries](Code/1.%20Database%20and%20Tables%20Creation.sql)
 
 
-### 6.1 2. Additional DDL Queries
+#### 6.1 2. Additional DDL Queries
 > ![2. Additional DDL Queries](Code/2.%20Additional%20DDL%20Queries.sql)
 
-### 6.1 3. Database Manipulation Queries (DML)
+#### 6.1 3. Database Manipulation Queries (DML)
 > ![3. DML Queries](Code/3.%20DML%20Queries.sql)
 
 
-### 6.1 4. Data Retreival with Filters and Operations
+#### 6.1 4. Data Retreival with Filters and Operations
 > ![4. Data Retreival with Filters and Operations](Code/4.%20Data%20Retreival%20with%20Filters%20and%20Operations.sql)
 
 
-### 6.1 5. Aggregation Queries
+#### 6.1 5. Aggregation Queries
 > ![5. Aggregation Queries](Code/5.%20Aggregation%20Queries.sql)
 
 
-### 6.1 6. Window Functions and Subqueries
+#### 6.1 6. Window Functions and Subqueries
 > ![6. Window Functions and Subqueries](Code/6.%20Window%20Functions%20and%20Subqueries.sql)
 
 
-### 6.1 7. Common Table Expression (CTEs)
+#### 6.1 7. Common Table Expression (CTEs)
 > ![7. NGO Operations_Queries_CTEs](Code/7.%20NGO%20Operations_Queries_CTEs.sql)
 
 
-### 6.1 8. NGO Operations_Queries_Views
+#### 6.1 8. Queries_Views
 > ![8. NGO Operations_Queries_Views](Code/8.%20NGO%20Operations_Queries_Views.sql)
+
+
+#### 6.1 9. Queries_StoredProcedures
+> ![9. NGO Operations_Queries_StoredProcedures](Code/9.%20NGO%20Operations_Queries_StoredProcedures.sql)
 
 
 
