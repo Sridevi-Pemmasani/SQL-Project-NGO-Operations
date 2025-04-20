@@ -21,14 +21,14 @@ This project aims to design and implement a comprehensive database system and op
 
 The project uses a relational database consisting of the following basic tables:
 
-- `Staff` - Represents the permanent employees of the NGO who play various roles in managing operations and implementing projects
-- `Staff Role` - Defines various roles that staff members can have within the NGO, such as NGO Head, Fundraising Manager, or Operations Manager.
-- `Volunteers` - Represents individuals who contribute their time and skills to the NGO's projects and activities on a voluntary basis.
-- `Projects`
-- `ProjectActivities`
-- `Donars`
-- `Beneficiaries`
-- `Expenses`
+1. `Staff` - Represents the permanent employees of the NGO who play various roles in managing operations and implementing projects
+2. `Staff Role` - Defines various roles that staff members can have within the NGO, such as NGO Head, Fundraising Manager, or Operations Manager.
+3. `Volunteers` - Represents individuals who contribute their time and skills to the NGO's projects and activities on a voluntary basis.
+4. `Projects` - Represents the various initiatives undertaken by the NGO to achieve its mission.
+5. `ProjectActivities` - Represents specific activities that fall under a project. Each project can have multiple activities.
+6. `Donars` - Represents individuals or organizations providing financial contributions to the NGO.
+7. `Beneficiaries` - Represents the individuals or groups who benefit from the NGO’s projects.
+8. `Expenses` - Tracks the financial expenditure associated with each project.
 
 ---
 
@@ -36,9 +36,9 @@ The project uses a relational database consisting of the following basic tables:
 
 Below tables  project uses a relational database consisting of the following basic tables:
 
-- `Staff`
-- `Staff Role`
-- `Volunteers`
+- `VolunteerHours` - Tracks the hours contributed by volunteers to specific project activities.
+- `Beneficiaries_Feedback` - Captures feedback provided by beneficiaries on the projects they were part of.
+- `Donations` - Tracks financial contributions made by donors to specific projects.
 - `Projects`
 - `ProjectActivities`
 - `Donars`
