@@ -115,12 +115,16 @@ These tables are connected via foreign keys to maintain data integrity.
 #### 6.1 9. Queries_StoredProcedures
 > ![9. NGO Operations_Queries_StoredProcedures](Code/9.%20NGO%20Operations_Queries_StoredProcedures.sql)
 
+#### 6.1 10. NGO Operations Insights
+> ![12. NGO Operations Insights](Code/12.%20NGO%20Operations%20Insights.sql)
 
 ---
 
 ## 7. Findings & Recommendations
 
-- **Donor Engagement**: A few major donors contribute the majority of funds. Implement loyalty and recognition programs.
+- **Donor Engagement & Donations**: 
+- Who is donating, and to which projects. 
+- A few major donors contribute the majority of funds. Implement loyalty and recognition programs.
 - **Volunteer Optimization**: Balance volunteer distribution among different project activities
 - **Beneficery Feedback**: Encourage and Collect feedback from all beneficiries to evaluate the service activities
 
