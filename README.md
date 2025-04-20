@@ -143,20 +143,20 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 
 ## 10. Screenshots
 
-> ![Donations Categories](images/DQL1-CaseStatement-CategoriseDonations.png)
-> ![Volunteer Engagement-1](images/DQL2-LEFTJOIN-VolunteerEngagement.png)
-> ![Assign Row Number to Projects by StartDate](images/WindowFunction1-AssignRowNum2ProjectsUsingStartDate.png)
-> ![Rank Beneficiries by DOB](images/WindowFunction2-AssignRanktoBeneficiariesBasedOnDOB.png)
-> ![Donation Details](images/CTE1-DonationSummarybyProject.png)
-> ![Staff Assignments Completed](images/CTE2-StaffAssignmentsCompletedByaGivenDate.png)
-> ![Volunteer Engagement-2](images/View-1-VolunteersEngagement.png)
-> ![Beneficiries Feedback by Project](images/View2-BeneficiriesFeedbackByProject.png)
-> ![Stored Procedure to Add a New Donation Record](images/StoredProcedure1-AddNew-DonationRecord.png)  
-> ![Stored Procedure to To Update Project Budget](images/StoredProcedure2-Update-Budget.png)
+- ![Donations Categories](images/DQL1-CaseStatement-CategoriseDonations.png)
+- ![Volunteer Engagement-1](images/DQL2-LEFTJOIN-VolunteerEngagement.png)
+- ![Assign Row Number to Projects by StartDate](images/WindowFunction1-AssignRowNum2ProjectsUsingStartDate.png)
+- ![Rank Beneficiries by DOB](images/WindowFunction2-AssignRanktoBeneficiariesBasedOnDOB.png)
+- ![Donation Details](images/CTE1-DonationSummarybyProject.png)
+- ![Staff Assignments Completed](images/CTE2-StaffAssignmentsCompletedByaGivenDate.png)
+- ![Volunteer Engagement-2](images/View-1-VolunteersEngagement.png)
+- ![Beneficiries Feedback by Project](images/View2-BeneficiriesFeedbackByProject.png)
+- ![Stored Procedure to Add a New Donation Record](images/StoredProcedure1-AddNew-DonationRecord.png)  
+- ![Stored Procedure to To Update Project Budget](images/StoredProcedure2-Update-Budget.png)
 ---
 
 ## 11. Author
 
 **Details**  
-Email: sriramapemmasani@gmail.com 
-GitHub: [Sridevi-Pemmasani](https://github.com/Sridevi-Pemmasani)
+- Email: sriramapemmasani@gmail.com 
+- GitHub: [Sridevi-Pemmasani](https://github.com/Sridevi-Pemmasani)
