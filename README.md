@@ -122,11 +122,24 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ## 7. Findings & Recommendations
 
-- **Donor Engagement & Donations**: 
-    - Who is donating, and to which projects. 
+- **Donor Engagement, Retention & Contribution Trends Over Time**: 
+    - Who is donating, to which projects and when
     - A few major donors contribute the majority of funds. Implement loyalty and recognition programs.
-- **Volunteer Optimization**: Balance volunteer distribution among different project activities
-- **Beneficery Feedback**: Encourage and Collect feedback from all beneficiries to evaluate the service activities
+- **Monthly Donation Trends**: 
+    - Are donations seasonal?
+    - Plan fundraising strategies to manage seasonal donation issues
+- **Top Performing Projects**: 
+    - Donations received + Volunteer hours + Feedback
+    - Educate and try to pull more Donars and Donations for low performed projects 
+- **Volunteer Workload Distribution and Optimization**: 
+    - Where and how much volunteers are contributing.
+    - Are some volunteers over/under-utilized?
+    - Optimize the volunteer involvement on project activities as required
+- **Beneficery Feedback**: 
+    - Feedback on projects and activities
+    - Encourage and Collect feedback from all beneficiries to evaluate the service activities
+    - Evaluate recommendations and take decisions accordingly
+    - Identify the projects and volunteers performance and take neccessary improvement steps 
 
 ---
 
@@ -146,7 +159,7 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 
 ## 10. Screenshots
 
-- ![Donations Categories](Images/DQL1-CaseStatement-CategoriseDonations.png)
+![Donations Categories](Images/DQL1-CaseStatement-CategoriseDonations.png)
 - ![Volunteer Engagement-1](Images/DQL2-LEFTJOIN-VolunteerEngagement.png)
 - ![Assign Row Number to Projects by StartDate](Images/WindowFunction1-AssignRowNum2ProjectsUsingStartDate.png)
 - ![Rank Beneficiries by DOB](Images/WindowFunction2-AssignRanktoBeneficiariesBasedOnDOB.png)
