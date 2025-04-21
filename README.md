@@ -114,7 +114,7 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ## 7. Findings & Recommendations
 
-💡 **Key Insights:**
+### 💡 **Key Insights:**
 
 ✅ **Donor Contribution Concentration:** A small group of major donors is responsible for a significant portion of the total funds raised.
 
@@ -126,7 +126,7 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ---
 
-🚀 **Recommended Actions:**
+### 🚀 **Recommended Actions:**
 
 🌟 **Enhance Donor Engagement:** Introduce loyalty and recognition programs (e.g., donor spotlights, milestone awards) to attract and retain high-value donors, especially for underfunded projects.
 
