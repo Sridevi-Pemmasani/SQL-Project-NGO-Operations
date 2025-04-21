@@ -154,17 +154,30 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 
 1. Donations Categories
 ![Donations Categories](Images/DQL1-CaseStatement-CategoriseDonations.png)
+
 2. Donation Details
 ![Donation Details](Images/CTE1-DonationSummarybyProject.png)
-![Volunteer Engagement-2](Images/View-1-VolunteersEngagement.png)
+
+3. Monthly Donation Trend
 ![Monthly Donation Trend](Images/MonthlyDonationTrends.png)
+
+4. Top 3 Donars by Project
 ![Top 3 Donars by Project](Images/Top3DonarsbyProject.png)
+
+5. Top Performing Projects by Impact
 ![Top Performing Projects by Impact](Images/TopPerformingProjectsbyImpact.png)
+
+6. Donor Retention & Contribution Trends Over Time
 ![Donor Retention & Contribution Trends Over Time](Images/DonorRetentionNContributionTrendsOverTimepng)
+
+7. Donar Contributions against Different Projects
 ![Donar Contributions against Different Projects](Images/DonationsTrackbyDonars4ProjectandNTime.png)
+
+8. Volunteer Work Distribution
 ![Volunteer Work Distribution](Images/VolunteerWorkloadDistribution.png)
+
+9. Beneficiries Feedback by Project
 ![Beneficiries Feedback by Project](Images/View2-BeneficiriesFeedbackByProject.png)
-![Volunteer Work Distribution](Images/VolunteerWorkloadDistribution.png)
 
 ---
 
