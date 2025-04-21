@@ -124,6 +124,8 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ✅ **Underperforming Projects Identified:** A few projects are consistently showing low performance or impact, requiring strategic attention.
 
+-
+
 🚀 **Recommended Actions:**
 
 🌟 **Enhance Donor Engagement:** Introduce loyalty and recognition programs (e.g., donor spotlights, milestone awards) to attract and retain high-value donors, especially for underfunded projects.
