@@ -114,24 +114,19 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ## 7. Findings & Recommendations
 
-- **Donor Engagement, Retention & Contribution Trends Over Time**: 
-    - Who is donating, to which projects and when
-    - A few major donors contribute the majority of funds. Implement loyalty and recognition programs.
-- **Monthly Donation Trends**: 
-    - Are donations seasonal?
-    - Plan fundraising strategies to manage seasonal donation issues
-- **Top Performing Projects**: 
-    - Donations received + Volunteer hours + Feedback
-    - Educate and try to pull more Donars and Donations for low performed projects 
-- **Volunteer Workload Distribution and Optimization**: 
-    - Where and how much volunteers are contributing.
-    - Are some volunteers over/under-utilized?
-    - Optimize the volunteer involvement on project activities as required
-- **Beneficery Feedback**: 
-    - Feedback on projects and activities
-    - Encourage and Collect feedback from all beneficiries to evaluate the service activities
-    - Evaluate recommendations and take decisions accordingly
-    - Identify the projects and volunteers performance and take neccessary improvement steps 
+💡 Key Insights:
+
+✅ Donor Contribution Concentration: A small group of major donors is responsible for a significant portion of the total funds raised.
+✅ Seasonal & Event-Based Donation Trends: Donation volumes fluctuate depending on the season and specific events or campaigns.
+✅ Volunteer Resource Imbalance: Volunteer engagement is not consistently aligned with project needs—some projects face overstaffing while others are understaffed.
+✅ Underperforming Projects Identified: A few projects are consistently showing low performance or impact, requiring strategic attention.
+
+🚀 Recommended Actions:
+
+🌟 Enhance Donor Engagement: Introduce loyalty and recognition programs (e.g., donor spotlights, milestone awards) to attract and retain high-value donors, especially for underfunded projects.
+📅 Strategic Fundraising Planning: Develop seasonal fundraising calendars and event-based campaigns to better manage fluctuations and ensure consistent funding throughout the year.
+🧩 Optimize Volunteer Allocation: Implement a volunteer management system that matches volunteer skills and availability with specific project demands to improve efficiency and satisfaction.
+💬 Collect & Act on Beneficiary Feedback: Regularly gather structured feedback from beneficiaries to assess service quality, identify improvement areas, and increase impact.
 
 ---
 
@@ -181,8 +176,11 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 
 ---
 
-## 11. Author
+## **📬 Connect With Me**  
 
-**Details**  
-- Email: sriramapemmasani@gmail.com 
-- GitHub: [Sridevi-Pemmasani](https://github.com/Sridevi-Pemmasani)
+💼 **LinkedIn:** (www.linkedin.com/in/sridevi-pemmasani-2b849a317)
+
+📧 **Email:** sriramapemmasani@gmail.com 
+
+🚀 **GitHub:** (https://github.com/Sridevi-Pemmasani) 
+
