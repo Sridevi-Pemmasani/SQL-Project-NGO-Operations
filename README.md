@@ -158,17 +158,20 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 ---
 
 ## 10. Screenshots
+**Few Query Results / NGO Operations Insights:**
 
 ![Donations Categories](Images/DQL1-CaseStatement-CategoriseDonations.png)
-- ![Volunteer Engagement-1](Images/DQL2-LEFTJOIN-VolunteerEngagement.png)
-- ![Assign Row Number to Projects by StartDate](Images/WindowFunction1-AssignRowNum2ProjectsUsingStartDate.png)
-- ![Rank Beneficiries by DOB](Images/WindowFunction2-AssignRanktoBeneficiariesBasedOnDOB.png)
-- ![Donation Details](Images/CTE1-DonationSummarybyProject.png)
-- ![Staff Assignments Completed](Images/CTE2-StaffAssignmentsCompletedByaGivenDate.png)
-- ![Volunteer Engagement-2](Images/View-1-VolunteersEngagement.png)
-- ![Beneficiries Feedback by Project](Images/View2-BeneficiriesFeedbackByProject.png)
-- ![Stored Procedure to Add a New Donation Record](Images/StoredProcedure1-AddNew-DonationRecord.png)  
-- ![Stored Procedure to To Update Project Budget](Images/StoredProcedure2-Update-Budget.png)
+![Donation Details](Images/CTE1-DonationSummarybyProject.png)
+![Volunteer Engagement-2](Images/View-1-VolunteersEngagement.png)
+![Monthly Donation Trend](Images/MonthlyDonationTrends.png)
+![Top 3 Donars by Project](Images/Top3DonarsbyProject.png)
+![Top Performing Projects by Impact](Images/TopPerformingProjectsbyImpact.png)
+![Donor Retention & Contribution Trends Over Time](Images/DonorRetentionNContributionTrendsOverTimepng)
+![Donar Contributions against Different Projects](Images/DonationsTrackbyDonars4ProjectandNTime.png)
+![Volunteer Work Distribution](Images/VolunteerWorkloadDistribution.png)
+![Beneficiries Feedback by Project](Images/View2-BeneficiriesFeedbackByProject.png)
+![Volunteer Work Distribution](Images/VolunteerWorkloadDistribution.png)
+
 ---
 
 ## 11. Author
