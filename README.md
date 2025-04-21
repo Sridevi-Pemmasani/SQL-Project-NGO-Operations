@@ -116,17 +116,17 @@ These tables are connected via foreign keys to maintain data integrity.
 
 💡 **Key Insights:**
 
--✅ **Donor Contribution Concentration:** A small group of major donors is responsible for a significant portion of the total funds raised.
--✅ **Seasonal & Event-Based Donation Trends:** Donation volumes fluctuate depending on the season and specific events or campaigns.
--✅ **Volunteer Resource Imbalance:** Volunteer engagement is not consistently aligned with project needs—some projects face overstaffing while others are understaffed.
--✅ **Underperforming Projects Identified:** A few projects are consistently showing low performance or impact, requiring strategic attention.
+- ✅ **Donor Contribution Concentration:** A small group of major donors is responsible for a significant portion of the total funds raised.
+- ✅ **Seasonal & Event-Based Donation Trends:** Donation volumes fluctuate depending on the season and specific events or campaigns.
+- ✅ **Volunteer Resource Imbalance:** Volunteer engagement is not consistently aligned with project needs—some projects face overstaffing while others are understaffed.
+- ✅ **Underperforming Projects Identified:** A few projects are consistently showing low performance or impact, requiring strategic attention.
 
 🚀 **Recommended Actions:**
 
--🌟 **Enhance Donor Engagement:** Introduce loyalty and recognition programs (e.g., donor spotlights, milestone awards) to attract and retain high-value donors, especially for underfunded projects.
--📅 **Strategic Fundraising Planning:** Develop seasonal fundraising calendars and event-based campaigns to better manage fluctuations and ensure consistent funding throughout the year.
--🧩 **Optimize Volunteer Allocation:** Implement a volunteer management system that matches volunteer skills and availability with specific project demands to improve efficiency and satisfaction.
--💬 **Collect & Act on Beneficiary Feedback:** Regularly gather structured feedback from beneficiaries to assess service quality, identify improvement areas, and increase impact.
+- 🌟 **Enhance Donor Engagement:** Introduce loyalty and recognition programs (e.g., donor spotlights, milestone awards) to attract and retain high-value donors, especially for underfunded projects.
+- 📅 **Strategic Fundraising Planning:** Develop seasonal fundraising calendars and event-based campaigns to better manage fluctuations and ensure consistent funding throughout the year.
+- 🧩 **Optimize Volunteer Allocation:** Implement a volunteer management system that matches volunteer skills and availability with specific project demands to improve efficiency and satisfaction.
+- 💬 **Collect & Act on Beneficiary Feedback:** Regularly gather structured feedback from beneficiaries to assess service quality, identify improvement areas, and increase impact.
 
 ---
 
