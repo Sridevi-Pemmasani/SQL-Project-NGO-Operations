@@ -1,0 +1,31 @@
+ActivityID,ProjectID,ActivityName,ActivityDescription
+1,1,Conduct awareness campaigns,"To preventive healthcare, hygiene, and nutrition in the local community."
+2,1,Organize health camps,"Offers free medical check-ups, immunizations, and health screenings."
+3,1,Establish mobile health units,To provide healthcare in remote or underserved areas.
+4,2,Associate Technology Education,Partner with schools to develop teacher training programs for modern teaching methods.
+5,2,Basic education support,Provide scholarships or school supplies to underprivileged students.
+6,2,Support to excel in studies,Organize after-school tutoring sessions to help children improve academic performance.
+7,3,Provide Awareness on water conservation,Launch hygiene education programs to promote safe water storage and usage practices.
+8,3,Install water filters,Install community water filtration systems in areas with unsafe water.
+9,3,Monitor water purification systems,Conduct water testing and purification drives to ensure the quality of water sources.
+10,4,Arrange shelters,Set up temporary shelters for displaced families in affected areas.
+11,4,Provide emotional support,Provide psychological first aid and counseling to individuals affected by crises.
+12,4,Provide basic medical supplies,"Distribute essential supplies like food, water, and hygiene kits during disasters."
+13,5,Develop leadership skills,Facilitate leadership and team-building workshops to foster confidence and initiative.
+14,5,Support Skill development,"Conduct skill development sessions (e.g., IT skills, entrepreneurship, or vocational training)."
+15,5,Provide career counselling,Organize career counseling and mentorship programs connecting youth with professionals.
+16,6,Awareness on diet,Implement nutrition education sessions to teach families about balanced diets.
+17,6,Provide food distribution camps,Establish food banks or meal distribution programs to assist vulnerable populations.
+18,6,Encourage Greenery,Create community gardens where residents can grow their own food.
+19,7,Expertise guidance,Set up a mentorship program pairing new volunteers with experienced team members.
+20,7,Volunteer Training,"Develop training modules on effective volunteering, communication, and community engagement."
+21,7,Provide practical skills,"Organize hands-on workshops to teach specific skills like first aid, teaching, or disaster response."
+22,8,Organize spay/neuter drives,Organize spay/neuter drives to control stray animal populations and reduce homelessness.
+23,8,Set up awareness programs,"Conduct awareness programs to educate the community about animal rights, responsible pet ownership, and wildlife protection."
+24,8,Support animal rescue centres,Establish or support animal rescue and rehabilitation centres to provide medical care and shelter for injured or abandoned animals.
+25,9,Waste management programs,"Implement community waste management programs, including recycling workshops and clean-up drives."
+26,9,Conduct tree-planting,Conduct tree-planting drives to promote afforestation and combat deforestation.
+27,9,Energy conservation campaigns,Launch energy conservation campaigns promoting the use of renewable energy and eco-friendly practices.
+28,10,Budgeting and saving trainings,Organize sessions on basic budgeting and saving to help individuals manage their finances effectively.
+29,10,Hands-on workshops on digital banking,Facilitate hands-on workshops on digital banking tools to promote financial inclusion and tech literacy.
+30,10,Investment and debt management trainings,Provide training on investment and debt management to empower participants to make informed financial decisions.

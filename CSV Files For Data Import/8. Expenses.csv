@@ -1,0 +1,201 @@
+ExpenseID,ExpenseDescription,Amount,ExpenseDate,ProjectID
+1,Food and refreshments for training session,1360.4,2021-09-07,3
+2,Transportation costs for volunteers,6152.07,2023-06-28,5
+3,Team uniforms for cleanup drive,4074.74,2023-05-26,7
+4,Emergency relief fund expenses,6727.56,2022-12-10,1
+5,Insurance for charity event,5189.78,2021-12-22,1
+6,Volunteer stipends,5035.22,2023-09-09,4
+7,Food and refreshments for training session,2673.02,2024-03-08,10
+8,Event photography and media coverage,8366.98,2023-01-04,1
+9,Team uniforms for cleanup drive,3285.01,2022-12-07,1
+10,Rent for temporary storage facility,8954.61,2022-04-02,8
+11,Venue rental for the community event,3579.87,2024-02-27,5
+12,Payment for guest speaker,7728.31,2023-08-07,7
+13,Event photography and media coverage,3257.87,2021-12-16,3
+14,Food and refreshments for training session,154.77,2020-09-06,1
+15,Transportation costs for volunteers,3549.36,2023-07-09,10
+16,Emergency relief fund expenses,1382.78,2023-06-23,7
+17,Marketing and advertising expenses,907.6,2023-03-27,9
+18,Medical supplies for health camp,3050.21,2024-04-29,10
+19,Insurance for charity event,3878.48,2024-02-01,9
+20,Rent for temporary storage facility,9438.24,2022-06-23,3
+21,Printing and distribution of flyers,2086.23,2023-03-31,7
+22,Event photography and media coverage,316.62,2023-06-01,4
+23,Fundraising event catering,4808.51,2022-07-01,6
+24,Event photography and media coverage,561.97,2024-06-08,5
+25,Stationery and office supplies,3814.65,2024-07-06,9
+26,Transportation costs for volunteers,194.16,2023-12-10,4
+27,Food and refreshments for training session,4919.44,2022-11-25,8
+28,Event photography and media coverage,8932.07,2024-02-26,9
+29,Security and safety services,330.88,2022-09-10,7
+30,Volunteer appreciation gifts,757.07,2022-10-23,6
+31,Transportation costs for volunteers,4985.84,2022-09-28,2
+32,Stationery and office supplies,4275.67,2024-07-11,5
+33,Food and refreshments for training session,5902.84,2022-09-20,8
+34,Insurance for charity event,5860.24,2023-09-07,8
+35,Volunteer appreciation gifts,7545.32,2024-10-17,1
+36,Fundraising event catering,7617.65,2021-12-11,6
+37,Event photography and media coverage,3800.3,2024-11-09,9
+38,Insurance for charity event,3782.64,2021-11-21,1
+39,Food and refreshments for training session,361.14,2021-11-29,3
+40,Emergency relief fund expenses,110.91,2020-11-15,1
+41,Venue rental for the community event,7684.89,2023-10-10,10
+42,Educational materials for workshop,5995.82,2021-12-02,6
+43,Event photography and media coverage,5854.33,2022-11-18,7
+44,Food and refreshments for training session,935.02,2023-01-25,7
+45,Food and refreshments for training session,7765.7,2023-01-13,4
+46,Tree saplings and gardening tools,1707.85,2024-09-21,7
+47,Volunteer stipends,2644.06,2024-11-02,7
+48,Volunteer appreciation gifts,2287.82,2024-04-20,9
+49,Volunteer appreciation gifts,8562.22,2023-06-11,7
+50,Emergency relief fund expenses,9959.62,2020-11-29,2
+51,Marketing and advertising expenses,9562.92,2022-07-20,1
+52,Medical supplies for health camp,7041.81,2024-05-01,10
+53,Tents and equipment for outdoor activities,8501.64,2024-05-14,7
+54,Insurance for charity event,2403.2,2024-01-04,7
+55,Team uniforms for cleanup drive,1147.02,2021-12-01,6
+56,Food and refreshments for training session,6922.37,2024-07-10,9
+57,Emergency relief fund expenses,7896.93,2021-12-18,6
+58,Medical supplies for health camp,7059.58,2023-11-20,8
+59,Rent for temporary storage facility,9903.23,2024-03-14,5
+60,Tree saplings and gardening tools,1268.35,2024-01-11,7
+61,Payment for guest speaker,6502.69,2024-08-27,4
+62,Stationery and office supplies,4650.02,2023-07-16,9
+63,Emergency relief fund expenses,6098.54,2023-10-23,10
+64,Fundraising event catering,7887.43,2024-04-02,5
+65,Marketing and advertising expenses,8029.64,2023-09-25,8
+66,Tents and equipment for outdoor activities,1288.26,2021-04-19,2
+67,Printing and distribution of flyers,5592.05,2024-06-17,4
+68,Stationery and office supplies,4932.88,2022-05-13,8
+69,Venue rental for the community event,9416.31,2020-09-06,1
+70,Insurance for charity event,1586.06,2023-10-22,10
+71,Medical supplies for health camp,7568.79,2023-11-07,4
+72,Volunteer appreciation gifts,6986.28,2022-12-27,1
+73,Emergency relief fund expenses,1445.49,2024-03-20,10
+74,Event photography and media coverage,5400.74,2023-10-04,10
+75,Stationery and office supplies,1009.56,2021-09-04,3
+76,Rent for temporary storage facility,3997.82,2021-12-15,3
+77,Food and refreshments for training session,6055.43,2024-06-27,5
+78,Volunteer stipends,4938.41,2023-09-08,4
+79,Security and safety services,7333.97,2022-02-15,2
+80,Team uniforms for cleanup drive,7189.34,2023-11-06,8
+81,Food and refreshments for training session,8681.42,2022-06-26,6
+82,Educational materials for workshop,6945.89,2022-10-03,8
+83,Venue rental for the community event,8384.66,2020-04-26,1
+84,Volunteer stipends,4378.14,2024-08-30,7
+85,Marketing and advertising expenses,6914.93,2022-09-11,1
+86,Emergency relief fund expenses,5835.64,2022-08-03,8
+87,Educational materials for workshop,5844.66,2022-03-17,6
+88,Stationery and office supplies,8372.88,2024-03-05,10
+89,Transportation costs for volunteers,5244.33,2024-04-06,5
+90,Team uniforms for cleanup drive,1252.99,2022-03-16,3
+91,Payment for guest speaker,2672.84,2023-12-04,1
+92,Insurance for charity event,6218.19,2023-07-18,10
+93,Payment for guest speaker,7418.04,2023-06-11,4
+94,Educational materials for workshop,5695.9,2022-10-18,3
+95,Venue rental for the community event,7318.5,2024-04-14,8
+96,Fundraising event catering,4947.39,2022-04-30,8
+97,Tents and equipment for outdoor activities,3251.14,2024-10-19,8
+98,Printing and distribution of flyers,6582.44,2024-05-05,10
+99,Event photography and media coverage,4086.59,2023-06-21,9
+100,Team uniforms for cleanup drive,7826.67,2023-06-02,4
+101,Medical supplies for health camp,3082.73,2023-07-11,9
+102,Food and refreshments for training session,6215.93,2021-12-09,2
+103,Tents and equipment for outdoor activities,2948.39,2021-01-12,1
+104,Volunteer stipends,7492.96,2023-04-22,4
+105,Food and refreshments for training session,8478.07,2020-09-01,1
+106,Event photography and media coverage,5064.59,2023-11-19,10
+107,Insurance for charity event,7484.59,2022-01-12,3
+108,Transportation costs for volunteers,1473.53,2023-10-17,5
+109,Transportation costs for volunteers,6391.85,2024-03-30,5
+110,Tree saplings and gardening tools,2996.01,2022-09-22,6
+111,Fundraising event catering,6569.35,2024-09-17,8
+112,Tree saplings and gardening tools,1260.54,2022-06-08,2
+113,Marketing and advertising expenses,5166.25,2024-09-07,8
+114,Marketing and advertising expenses,8489.3,2021-10-17,3
+115,Event photography and media coverage,8253.45,2022-10-10,8
+116,Food and refreshments for training session,4770.54,2023-09-25,10
+117,Marketing and advertising expenses,6652.78,2023-12-20,5
+118,Tree saplings and gardening tools,9112.41,2022-08-08,3
+119,Insurance for charity event,4880.56,2023-07-21,7
+120,Transportation costs for volunteers,6275.01,2023-01-17,7
+121,Rent for temporary storage facility,4696.78,2024-09-13,7
+122,Marketing and advertising expenses,9774.16,2022-01-01,3
+123,Team uniforms for cleanup drive,4693.08,2022-09-30,1
+124,Stationery and office supplies,3792.8,2022-03-16,6
+125,Team uniforms for cleanup drive,4517.23,2023-12-02,8
+126,Transportation costs for volunteers,741.05,2024-02-20,9
+127,Insurance for charity event,4369.06,2023-01-01,8
+128,Volunteer appreciation gifts,1595.5,2023-07-15,10
+129,Medical supplies for health camp,2200.48,2021-04-12,1
+130,Tree saplings and gardening tools,2970.95,2024-04-20,5
+131,Fundraising event catering,2738.69,2021-08-10,1
+132,Payment for guest speaker,3313.15,2022-08-13,6
+133,Medical supplies for health camp,7910.87,2024-02-25,10
+134,Payment for guest speaker,9351.68,2023-12-19,10
+135,Food and refreshments for training session,5402.85,2023-08-03,7
+136,Venue rental for the community event,2845.74,2020-12-25,2
+137,Printing and distribution of flyers,7874.67,2023-08-24,7
+138,Printing and distribution of flyers,3897.68,2024-06-25,4
+139,Insurance for charity event,1139.23,2022-10-26,3
+140,Stationery and office supplies,6399.63,2022-04-10,8
+141,Volunteer stipends,8153.62,2020-01-13,2
+142,Team uniforms for cleanup drive,2556.3,2024-03-09,5
+143,Tree saplings and gardening tools,769.84,2023-03-18,7
+144,Venue rental for the community event,4465.22,2024-03-24,7
+145,Team uniforms for cleanup drive,1419.64,2022-09-05,6
+146,Team uniforms for cleanup drive,6099.24,2023-05-07,8
+147,Stationery and office supplies,1046.88,2024-03-03,7
+148,Transportation costs for volunteers,8137.52,2023-08-30,5
+149,Security and safety services,4308.33,2022-03-24,6
+150,Tree saplings and gardening tools,6716.16,2021-10-16,3
+151,Fundraising event catering,231.75,2023-06-03,7
+152,Printing and distribution of flyers,8168.45,2021-12-28,1
+153,Venue rental for the community event,9492.92,2021-10-08,3
+154,Food and refreshments for training session,8090.62,2024-09-16,4
+155,Tents and equipment for outdoor activities,6639.17,2023-12-09,10
+156,Payment for guest speaker,196.58,2024-08-15,8
+157,Fundraising event catering,9113.44,2023-03-17,7
+158,Food and refreshments for training session,4525.45,2024-03-22,7
+159,Fundraising event catering,3526.7,2024-10-07,4
+160,Marketing and advertising expenses,3964.77,2024-07-07,4
+161,Payment for guest speaker,9330.86,2023-07-08,8
+162,Transportation costs for volunteers,6687.8,2023-09-16,7
+163,Food and refreshments for training session,2490.3,2022-07-25,2
+164,Venue rental for the community event,2880.01,2020-10-11,2
+165,Food and refreshments for training session,3646.98,2024-07-31,4
+166,Marketing and advertising expenses,6239.36,2023-08-09,7
+167,Venue rental for the community event,6859.42,2023-02-15,7
+168,Insurance for charity event,6040.93,2023-08-18,4
+169,Volunteer appreciation gifts,6459.01,2022-08-31,6
+170,Marketing and advertising expenses,7364.93,2024-01-25,5
+171,Volunteer stipends,380.99,2023-01-26,10
+172,Stationery and office supplies,2187.99,2023-12-23,10
+173,Marketing and advertising expenses,671.67,2024-01-22,8
+174,Payment for guest speaker,3846.94,2023-12-07,7
+175,Tree saplings and gardening tools,4835.57,2024-03-14,4
+176,Team uniforms for cleanup drive,2575.64,2023-05-06,7
+177,Food and refreshments for training session,5982.14,2023-10-16,4
+178,Event photography and media coverage,6584.6,2023-11-24,8
+179,Food and refreshments for training session,8866.14,2021-11-30,3
+180,Transportation costs for volunteers,1677.1,2023-04-24,2
+181,Team uniforms for cleanup drive,6304.72,2022-02-06,6
+182,Insurance for charity event,7317.12,2024-09-19,4
+183,Stationery and office supplies,4015.33,2024-04-01,7
+184,Insurance for charity event,7969.61,2022-04-03,6
+185,Tents and equipment for outdoor activities,3314.82,2024-03-28,9
+186,Security and safety services,5210.34,2023-11-10,9
+187,Food and refreshments for training session,1237.26,2024-03-26,8
+188,Tree saplings and gardening tools,6925.05,2021-01-22,2
+189,Emergency relief fund expenses,9369.87,2022-01-26,3
+190,Rent for temporary storage facility,4711.37,2021-11-27,1
+191,Educational materials for workshop,8254.28,2022-07-02,6
+192,Venue rental for the community event,8701.03,2024-08-03,2
+193,Volunteer stipends,4590.26,2024-03-12,5
+194,Venue rental for the community event,8655.92,2020-03-26,1
+195,Medical supplies for health camp,4638.13,2021-05-02,1
+196,Transportation costs for volunteers,7295.7,2024-03-30,4
+197,Food and refreshments for training session,6056.79,2023-11-27,9
+198,Volunteer appreciation gifts,7294.96,2023-08-13,5
+199,Stationery and office supplies,7729.27,2024-02-01,4
+200,Stationery and office supplies,6676.95,2024-03-02,9
