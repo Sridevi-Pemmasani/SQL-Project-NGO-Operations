@@ -158,7 +158,7 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 2. Donation Details
 ![Donation Details](Images/CTE1-DonationSummarybyProject.png)
 
-3. Monthly Donation Trend
+3. Monthly Donation Trend                                      
 ![Monthly Donation Trend](Images/MonthlyDonationTrends.png)
 
 4. Top 3 Donars by Project
@@ -168,7 +168,7 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 ![Top Performing Projects by Impact](Images/TopPerformingProjectsbyImpact.png)
 
 6. Donor Retention & Contribution Trends Over Time
-![Donor Retention & Contribution Trends Over Time](Images/DonorRetentionNContributionTrendsOverTimepng)
+![Donor Retention & Contribution Trends Over Time](Images/DonorRetentionNContributionTrendsOverTime.png)
 
 7. Donar Contributions against Different Projects
 ![Donar Contributions against Different Projects](Images/DonationsTrackbyDonars4ProjectandNTime.png)
