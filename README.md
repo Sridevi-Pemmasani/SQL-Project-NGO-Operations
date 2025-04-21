@@ -58,10 +58,11 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ## 4. Tools & Technologies
 
-- **MySQL Workbench** - Used as the primary database design and management tool (DBMS). It facilitated the creation of the Entity-Relationship (ER) diagram, schema design, and SQL queries for managing data operations. 
-- **SQL (Structured Query Language)** - SQL was used for defining, manipulating, and querying data within the MySQL database. Queries were written for tasks such as creating tables, managing relationships, and retrieving specific information.
-- **MySQL Server** - To host the database and allow access for authorized users. The server ensures data integrity and provides support for multiple concurrent users
-- **Draw.io** - This tool was used for ER Modeling
+- **MySQL Server** - The engine that runs and manages the database operations.
+- **MySQL** - An open-source RDBMS used for storing and managing relational data.
+- **MySQL Workbench** - A visual tool for database design and management. Used for ER diagrams, schema creation, and running SQL queries. 
+- **SQL (Structured Query Language)** - The language used to define, manipulate, and query data in the MySQL database.
+- **Draw.io** - Used for ER modeling and visualizing database structure before implementation
 
 ---
 
