@@ -124,7 +124,7 @@ These tables are connected via foreign keys to maintain data integrity.
 
 ✅ **Underperforming Projects Identified:** A few projects are consistently showing low performance or impact, requiring strategic attention.
 
---
+---
 
 🚀 **Recommended Actions:**
 
