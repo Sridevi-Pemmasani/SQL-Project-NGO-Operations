@@ -152,8 +152,9 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 ## 10. Screenshots
 **Few Query Results / NGO Operations Insights:**
 
-- Donations Categories
+1. Donations Categories
 ![Donations Categories](Images/DQL1-CaseStatement-CategoriseDonations.png)
+2. Donation Details
 ![Donation Details](Images/CTE1-DonationSummarybyProject.png)
 ![Volunteer Engagement-2](Images/View-1-VolunteersEngagement.png)
 ![Monthly Donation Trend](Images/MonthlyDonationTrends.png)
