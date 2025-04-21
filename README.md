@@ -30,8 +30,6 @@ The project uses a relational database consisting of the following basic tables:
 7. `Beneficiaries` - Represents the individuals or groups who benefit from the NGO’s projects.
 8. `Expenses` - Tracks the financial expenditure associated with each project.
 
----
-
 ### 3.2 Week / Secondary Tables
 
 Below are the additional tables required to maintain the relationships and among the given tables:
@@ -42,8 +40,6 @@ Below are the additional tables required to maintain the relationships and among
 
 These tables are connected via foreign keys to maintain data integrity.
 
----
-
 ### 3.3 Strong Relationsships
 
 1.	Staff manages Projects (Staff to Projects, 1:N)
@@ -51,8 +47,6 @@ These tables are connected via foreign keys to maintain data integrity.
 3.	Donors contribute to Projects through Donations (Donors to Donations, N:M via Projects)
 4.	Beneficiaries provide Feedback on Projects (Beneficiaries to Feedback, N:M via Projects)
 5.	Volunteers contribute hours to ProjectActivities (Volunteers to VolunteerHours, N:M via ProjectActivities)
-
----
 
 ### 3.4 Weak Relationships
 
@@ -158,7 +152,8 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 ## 10. Screenshots
 **Few Query Results / NGO Operations Insights:**
 
-![Donations Categories](Images/DQL1-CaseStatement-CategoriseDonations.png)
+-![Donations Categories]
+(Images/DQL1-CaseStatement-CategoriseDonations.png)
 ![Donation Details](Images/CTE1-DonationSummarybyProject.png)
 ![Volunteer Engagement-2](Images/View-1-VolunteersEngagement.png)
 ![Monthly Donation Trend](Images/MonthlyDonationTrends.png)
