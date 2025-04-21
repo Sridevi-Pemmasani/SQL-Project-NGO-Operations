@@ -9,10 +9,12 @@ This project aims to design and implement a comprehensive database system and op
 
 ## 2. Objectives
 
-- Analyze volunteer participation across various programs.
-- Track details of donars, donations, amount and date.
-- Identify high-impact programs and beneficiary reach.
-- Optimize operational efficiency through data queries.
+- Create a new database from scratch to support operational insights for a Non-Governmental Organization (NGO).
+- Design and implement a normalized database structure to ensure data consistency and integrity.
+- Creat primary and dependent tables to maintain proper relationships and eliminate redundancy.
+- Prepare and upload data into the database.
+- Extract insights using complex SQL queries on volunteer engagement, donations, programs, and beneficiary impact.
+- Provide insights and Recomendations
 
 ---
 
