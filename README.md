@@ -10,7 +10,7 @@ This project aims to design and implement a comprehensive database system and op
 ## 2. Objectives
 
 - Analyze volunteer participation across various programs.
-- Track donations by amount, donor type, and geography.
+- Track details of donars, donations, amount and date.
 - Identify high-impact programs and beneficiary reach.
 - Optimize operational efficiency through data queries.
 
@@ -52,6 +52,7 @@ These tables are connected via foreign keys to maintain data integrity.
 4.	Beneficiaries provide Feedback on Projects (Beneficiaries to Feedback, N:M via Projects)
 5.	Volunteers contribute hours to ProjectActivities (Volunteers to VolunteerHours, N:M via ProjectActivities)
 
+---
 
 ### 3.4 Weak Relationships
 
@@ -59,9 +60,7 @@ These tables are connected via foreign keys to maintain data integrity.
 2.	Donations depend on Donors and Projects
 3.	Beneficiaries_Feedback depends on Beneficiaries and Projects
 
-
-
-
+---
 
 ## 4. Tools & Technologies
 
@@ -69,20 +68,19 @@ These tables are connected via foreign keys to maintain data integrity.
 - **SQL (Structured Query Language)** - SQL was used for defining, manipulating, and querying data within the MySQL database. Queries were written for tasks such as creating tables, managing relationships, and retrieving specific information.
 - **MySQL Server** - To host the database and allow access for authorized users. The server ensures data integrity and provides support for multiple concurrent users
 - **Draw.io** - This tool was used for ER Modeling
+
 ---
 
 ## 5. Data Model Diagram
 
-> ![ER Diagram](Images/NGOOperations.drawio.png)
-
+![ER Diagram](Images/NGOOperations.drawio.png)
 
 ---
 
 ## 6. Key SQL Queries
 
-
 #### 6.1 1. Database and Tables Creation (DDL)
-> ![1. DDL Queries](Code/1.%20Database%20and%20Tables%20Creation.sql)
+![1. DDL Queries](Code/1.%20Database%20and%20Tables%20Creation.sql)
 
 
 #### 6.1 2. Additional DDL Queries
