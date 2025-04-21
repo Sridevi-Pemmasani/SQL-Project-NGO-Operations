@@ -155,39 +155,39 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 ## 10. Screenshots
 **Few Query Results / NGO Operations Insights:**
 
-1. Donar Contributions against Different Projects
+**1. Donar Contributions against Different Projects**
 
 ![Donar Contributions against Different Projects](Images/DonationsTrackbyDonars4ProjectandNTime.png)
 
-2. Average Donations for Project
+**2. Average Donations for Project**
 
 ![Average Donations for Project](Images/CTE1-DonationSummarybyProject.png)
 
-3. Monthly Donation Trend 
+**3. Monthly Donation Trend**
 
 ![Monthly Donation Trend](Images/MonthlyDonationTrends.png)
 
-4. Top 3 Donars by Project
+**4. Top 3 Donars by Project**
 
 ![Top 3 Donars by Project](Images/Top3DonarsbyProject.png)
 
-5. Top Performing Projects by Impact
+**5. Top Performing Projects by Impact**
 
 ![Top Performing Projects by Impact](Images/TopPerformingProjectsbyImpact.png)
 
-6. Donor Retention & Contribution Trends Over Time
+**6. Donor Retention & Contribution Trends Over Time**
 
 ![Donor Retention & Contribution Trends Over Time](Images/DonorRetentionNContributionTrendsOverTime.png)
 
-7. Volunteer Work Distribution
+**7. Volunteer Work Distribution**
 
 ![Volunteer Work Distribution](Images/VolunteerWorkloadDistribution.png)
 
-8. Rolling Totals of Volunteer Work Hours
+**8. Rolling Totals of Volunteer Work Hours**
 
 ![Rolling Totals of Volunteer Work Hours](Images/Rolling%20Totals%20of%20Volunteer%20Work%20Hours.png)
 
-9. Beneficiries Feedback by Project
+**9. Beneficiries Feedback by Project**
 
 ![Beneficiries Feedback by Project](Images/View2-BeneficiriesFeedbackByProject.png)
 
