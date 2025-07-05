@@ -198,9 +198,9 @@ SQL can provide powerful insights into NGO operations by uncovering patterns in 
 
 ## **📬 Connect With Me**  
 
-💼 **LinkedIn:** (www.linkedin.com/in/sridevi-pemmasani-2b849a317)
+💼 **LinkedIn:** (www.linkedin.com/in/sridevi-pemmasani-05ba20371)
 
-📧 **Email:** sriramapemmasani@gmail.com 
+📧 **Email:** sridevipemmasani509@gmail.com 
 
 🚀 **GitHub:** (https://github.com/Sridevi-Pemmasani) 
 
